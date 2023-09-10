@@ -36,6 +36,6 @@ $Magnitude = \sqrt{Sobel_x^2+Sobel_y^2}$
 
 The direction of the edge (angle) is computed as:
 
-$Angle = \atan{Sobel_y,Sobel_x} 
+$Angle = \atan{Sobel_y,Sobel_x}$
 
 
